@@ -66,6 +66,7 @@ fieldset {
 
 .result__video-container {
   inline-size: 711px;
+  block-size: 386px;
   margin: 0 0 11px;
   position: relative;
 }
@@ -257,6 +258,7 @@ fieldset {
 }
 
 .content__video-card-title {
+  max-width: 200px;
   padding: 2px 2px 5px;
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
